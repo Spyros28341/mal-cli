@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 description = "Terminal Interface for the official MyAnimeList api."
 # match the style used in the rest of the module
+# clarify the control flow
